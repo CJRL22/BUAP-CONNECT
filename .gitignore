@@ -1,0 +1,26 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Logs
+logs
+*.log
+*.log.*
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Build
+build/
+dist/
+.env
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# Sistema
+.DS_Store
+Thumbs.db
